@@ -12,7 +12,7 @@ $${\color{#66553a}i \space \color{#66553a} \space \color{#66553a} \space \color{
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tranquilified&label=%20ghesties&color=66553a&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=tranquilified&label=%20astronauts&color=66553a&style=for-the-badge">
 </div>
 
 
