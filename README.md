@@ -25,4 +25,3 @@ $${\color{#66553a}while\space \color{#66553a}\space \color{#66553a} \space \colo
 
 $${\color{#66553a}the\space \color{#66553a}\space \color{#66553a}\space \color{#66553a}rocks\space \color{#66553a}\space \color{#66553a}\space \color{#66553a}we\space \color{#66553a}\space \color{#66553a}\space \color{#66553a}see\space \color{#66553a}\space \color{#66553a}\space \color{#66553a}between\space \color{#66553a}\space \color{#66553a}  }$$
  
-<img width="550" height="100" alt="dividier2" src="https://github.com/user-attachments/assets/f983669c-3f26-4e9c-86a3-c6ca35d6a107" />
